@@ -1,0 +1,7 @@
+name: BET
+description: "The main token of bet37.t.me"
+address: "0:bd3dd3053f288a1888526938f3f9650764552564ed756d59b3fe4738011814f8"
+symbol: BET
+max_supply: 1000000000
+social:
+  - "https://t.me/bet37"
